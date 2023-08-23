@@ -1,0 +1,7 @@
+id,ciudad,hora_tomada,temperatura,sensación_térmica,info,presión,humedad
+84,Bogota,2023-08-23 00:51:05,27,31,scattered clouds,1011,76
+85,Bogota,2023-08-22 00:51:06,28,31,broken clouds,1009,71
+86,Bogota,2023-08-21 00:51:07,28,31,few clouds,1009,71
+102,Bogota,2023-08-23 00:52:19,27,31,scattered clouds,1011,76
+103,Bogota,2023-08-22 00:52:20,28,31,broken clouds,1009,71
+104,Bogota,2023-08-21 00:52:21,28,31,few clouds,1009,71

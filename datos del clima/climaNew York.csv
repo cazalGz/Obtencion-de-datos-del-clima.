@@ -1,0 +1,7 @@
+id,ciudad,hora_tomada,temperatura,sensación_térmica,info,presión,humedad
+75,New York,2023-08-23 00:50:52,22,21,overcast clouds,1019,55
+76,New York,2023-08-22 00:50:54,24,25,overcast clouds,1016,85
+77,New York,2023-08-21 00:50:55,23,24,scattered clouds,1019,83
+93,New York,2023-08-23 00:52:03,22,21,overcast clouds,1019,55
+94,New York,2023-08-22 00:52:04,24,25,overcast clouds,1016,85
+95,New York,2023-08-21 00:52:05,23,24,scattered clouds,1019,83

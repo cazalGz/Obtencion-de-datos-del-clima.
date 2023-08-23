@@ -1,0 +1,7 @@
+id,ciudad,hora_tomada,temperatura,sensación_térmica,info,presión,humedad
+78,Cordoba,2023-08-23 00:50:57,9,7,clear sky,1005,47
+79,Cordoba,2023-08-22 00:50:58,25,25,clear sky,995,33
+80,Cordoba,2023-08-21 00:50:59,10,9,clear sky,1010,73
+96,Cordoba,2023-08-23 00:52:07,9,7,clear sky,1005,47
+97,Cordoba,2023-08-22 00:52:10,25,25,clear sky,995,33
+98,Cordoba,2023-08-21 00:52:11,10,9,clear sky,1010,73
